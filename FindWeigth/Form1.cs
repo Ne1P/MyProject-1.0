@@ -213,7 +213,7 @@ namespace FindWeigth
                         //EndPath.Remove(EndPath.First());
                         //EndWeigth.Remove(EndWeigth.First());
                     }
-                }
+                }   ///<summary>Test </summary>
                 else
                 {
                     if (StartVertex.Count == NeedVisit.Count || StartVertex.Count > NeedVisit.Count)
